@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Sebastian Ferragut
-sferragut@ucsd.edu
+Sebastian Ferragut and Nian-Nian Wang
